@@ -46,15 +46,15 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 
 ### Sprint 1
 **Duração:** 19/08/2025 - 26/08/2025 <br>
-**entregável: ** Criação do repositório e elaboração do readme
+Entrega: Criação do repositório e elaboração do readme
 
 ### Sprint 2
 **Duração:** 02/09/2025 - 09/09/2025 <br>
-**entregável: ** Diagramas de casos de uso
+Entrega: Diagramas de casos de uso
 
 ### Sprint 3
 **Duração:** 09/09/2025 - 16/09/2025 <br>
-**entregável: ** Diagramas de classes de implantação
+Entrega: Diagramas de classes de implantação
 
 
 # 🔍 Navegação
