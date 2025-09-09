@@ -1,47 +1,35 @@
-# 📘 Sistema Inteligente de Gestão de Chamados de Suporte
+📘 Sistema Inteligente de Gestão de Chamados de Suporte
+🧾 Título do Projeto
+Sistema Inteligente de Gestão de Chamados de Suporte
 
-## 🧾 Título do Projeto
-**Sistema Inteligente de Gestão de Chamados de Suporte**
+🎯 Descrição do Desafio
+Desenvolver uma plataforma integrada e automatizada para gerenciamento de chamados de suporte técnico, que otimize processos, reduza custos e melhore a experiência do usuário.
 
-## 🎯 Descrição do Desafio
-Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, que otimize processos, reduza custos e melhore a experiência do usuário.
+👨‍💻 A Equipe
+Função	Nome	GitHub
+👑 Product Owner	Júlio Vasconcelos	JulioPVasconcelos
+🧭 Scrum Master	Thales Cotrim	T4lesbyte
+💻 Dev Team	Samuel Parra	samuel0021
+💻 Dev Team	Jaqueline Barbosa	JaqueRBarbosa
+💻 Dev Team	Lucas Alves	lucasleandro08
+💻 Dev Team	Kauã Bonafé	
+📦 Backlog do Produto
+Product Backlog
+📋 Escala de sprints
+Sprint	Datas	Documentação
+📌 Sprint 1	19/08 à 25/08	#1
+📌 Sprint 2	26/08 à 08/09	#2
+📌 Sprint 3	09/09 à 15/09	#3
+📌 Sprint 4	16/09 à 23/09	#4
+🔗 Link para Documentação da Sprint
+Sprint Backlog
+📚 Estrutura de Documentação
+Ciclo de Vida do Chamado
+Requisitos Funcionais
+Casos de Uso
+✅ Como Executar, Usar e Testar o Projeto
+(Instruções a serem adicionadas, exemplo abaixo)
 
-## 👨‍💻 A Equipe
-
-**Product Owner**  
-- Júlio Vasconcelos
-
-**Scrum Master**  
-- Thales Cotrim
-
-**Dev Team**  
-- Samuel Parra  
-- Jaqueline Barbosa  
-- Lucas Alves  
-- Kauã Bonafé
-
-## 📦 Backlog do Produto
-- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
-
-## 📋 Tabela Descritiva das Sprints
-
-| Sprint                      | Período               | Entregas                                                                                      |
-|----------------------------|------------------------|-----------------------------------------------------------------------------------------------|
-| Sprint - Arquitetura       | 03/04/2025 - 30/05/2025| - Definição da arquitetura<br>- Diagramas (Caso de Uso, Classe, Sequência, Implementação)<br>- Modelagem de Banco de Dados<br>- Arquitetura da Informação e Fluxos de Usuário<br>- Wireframes e protótipos de média e alta fidelidade |
-
-## 🔗 Link para Documentação da Sprint
-- [Sprint Backlog](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md)
-
-## 📚 Estrutura de Documentação
-
-- [Ciclo de Vida do Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=)
-- [Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4)
-- [Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4)
-
-## ✅ Como Executar, Usar e Testar o Projeto
-> *(Instruções a serem adicionadas, exemplo abaixo)*
-
-```bash
 # Clonar o repositório
 git clone https://github.com/usuario/repositorio.git
 
