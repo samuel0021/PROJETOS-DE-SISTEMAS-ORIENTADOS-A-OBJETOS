@@ -1,4 +1,4 @@
-# Repositório referente a matéria de Projeto de sistemas orientado a objetos
+# Projeto de sistemas orientado a objetos
 # A Equipe
 
 **Product Owner**  
@@ -9,7 +9,7 @@ Thales Cotrim
 
 **Dev Team**  
 - Samuel Parra  
-- Kaua Mangini  
+- Kauã Mangini  
 - Jaqueline Barbosa  
 - Lucas Alves
 
