@@ -9,7 +9,7 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ## 📦 Backlog do Produto
 - [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
   
-## 📋 Escala de sprints
+## 📋 Cronograma 
 | Sprint   | Datas           | Documentação |
 |----------|-----------------|--------------|
 |📌 Sprint 1 | 19/08 à 25/08   | https://github.com/samuel0021/PROJETOS-DE-SISTEMAS-ORIENTADOS-A-OBJETOS/issues/1           |
